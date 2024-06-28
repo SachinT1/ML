@@ -1,2 +1,2 @@
 # ML
-Implemented logistic regression and GDA 
+Implemented logistic regression in python
